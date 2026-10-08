@@ -1,0 +1,5 @@
+[mcp_servers.nomus_erp]
+command = 'powershell.exe'
+args = ['-NoProfile', '-File', 'C:\CAMINHO\nomus-codex\iniciar-nomus.ps1']
+startup_timeout_sec = 30
+tool_timeout_sec = 45

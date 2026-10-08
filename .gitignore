@@ -1,0 +1,36 @@
+# Credenciais e configuracao local
+.secrets/
+.env
+.env.*
+!.env.example
+*.dpapi
+nomus.local.json
+.codex/
+.aws/
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Dados empresariais e arquivos gerados
+relatorios/
+dados/
+exports/
+backups/
+*.xlsx
+*.xls
+*.csv
+*.pdf
+*.log
+*.sqlite
+*.sqlite3
+*.db
+
+# Ambiente e temporarios
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.vscode/
+~$*

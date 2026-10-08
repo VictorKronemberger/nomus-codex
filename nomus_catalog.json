@@ -1,0 +1,1514 @@
+[
+  {
+    "nome": "Listar atributos de pessoa",
+    "metodo": "GET",
+    "caminho": "atributosProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar atributo de pessoa",
+    "metodo": "GET",
+    "caminho": "atributosPessoa/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar atributos de produto",
+    "metodo": "GET",
+    "caminho": "atributosProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar atributo de produto",
+    "metodo": "GET",
+    "caminho": "atributosProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar apontamentos",
+    "metodo": "GET",
+    "caminho": "apontamentos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar apontamento",
+    "metodo": "GET",
+    "caminho": "apontamentos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir apontamento",
+    "metodo": "POST",
+    "caminho": "apontamentos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Mover para lixeira",
+    "metodo": "PUT",
+    "caminho": "apontamentos/moverParaLixeira/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar atividades",
+    "metodo": "GET",
+    "caminho": "atividades",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar boletos bancários",
+    "metodo": "GET",
+    "caminho": "boletos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar boleto bancário",
+    "metodo": "GET",
+    "caminho": "boletos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar causas de problemas",
+    "metodo": "GET",
+    "caminho": "causasProblemas",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar campos personalizados",
+    "metodo": "GET",
+    "caminho": "camposPersonalizados",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar campos personalizados",
+    "metodo": "GET",
+    "caminho": "camposPersonalizados/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar centros de custo",
+    "metodo": "GET",
+    "caminho": "centrosCusto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar centros de trabalho",
+    "metodo": "GET",
+    "caminho": "centrosTrabalho",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar centro de trabalho",
+    "metodo": "GET",
+    "caminho": "centrosTrabalho/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar clientes",
+    "metodo": "GET",
+    "caminho": "clientes",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar cliente",
+    "metodo": "GET",
+    "caminho": "clientes/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar cliente",
+    "metodo": "PUT",
+    "caminho": "clientes/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir cliente",
+    "metodo": "POST",
+    "caminho": "clientes/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar componentes da lista de materiais",
+    "metodo": "GET",
+    "caminho": "componentesListaMateriais",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar componente da lista de materiais",
+    "metodo": "GET",
+    "caminho": "componentesListaMateriais/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir componente da lista de materiais",
+    "metodo": "POST",
+    "caminho": "componentesListaMateriais",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar componente da lista de materiais",
+    "metodo": "PUT",
+    "caminho": "componentesListaMateriais/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Excluir componente da lista de materiais",
+    "metodo": "DELETE",
+    "caminho": "componentesListaMateriais/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar condições de pagamento",
+    "metodo": "GET",
+    "caminho": "condicoesPagamentos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar condição de pagamento",
+    "metodo": "GET",
+    "caminho": "condicoesPagamentos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar contas a receber",
+    "metodo": "GET",
+    "caminho": "contasReceber",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar conta a receber",
+    "metodo": "GET",
+    "caminho": "contasReceber/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar conta a receber",
+    "metodo": "PUT",
+    "caminho": "contasReceber/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar contas a pagar",
+    "metodo": "GET",
+    "caminho": "contasPagar",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar conta a pagar",
+    "metodo": "GET",
+    "caminho": "contasPagar/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar contas bancárias",
+    "metodo": "GET",
+    "caminho": "contasBancarias",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar conta bancária",
+    "metodo": "GET",
+    "caminho": "contasBancarias/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir conta bancária",
+    "metodo": "POST",
+    "caminho": "contasBancarias",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar conta bancária",
+    "metodo": "PUT",
+    "caminho": "contasBancarias/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar contatos",
+    "metodo": "GET",
+    "caminho": "contatos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar contatos de telefone",
+    "metodo": "GET",
+    "caminho": "contatos/telefones/:telefone",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar contatos de uma pessoa",
+    "metodo": "GET",
+    "caminho": "contatos/pessoa/:idPessoa",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar contato",
+    "metodo": "GET",
+    "caminho": "contatos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir contato",
+    "metodo": "POST",
+    "caminho": "contatos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar contato",
+    "metodo": "PUT",
+    "caminho": "contatos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar contratos de serviço",
+    "metodo": "GET",
+    "caminho": "contratosServico",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar contrato de serviço",
+    "metodo": "GET",
+    "caminho": "contratosServico/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir contrato de serviço",
+    "metodo": "POST",
+    "caminho": "contratosServico",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar contrato de serviço",
+    "metodo": "PUT",
+    "caminho": "contratosServico/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir documento de entrada",
+    "metodo": "POST",
+    "caminho": "documentosEntrada",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir documento de saída",
+    "metodo": "POST",
+    "caminho": "documentosSaida",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar documentos de estoque",
+    "metodo": "GET",
+    "caminho": "documentosEstoque",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar documentos de saída por pedido de venda",
+    "metodo": "GET",
+    "caminho": "documentosEstoque/pedido/:idPedidoVenda",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar documento de estoque",
+    "metodo": "GET",
+    "caminho": "documentosEstoque/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir documento de movimentação livre",
+    "metodo": "POST",
+    "caminho": "documentoMovimentacaoLivre",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar documentos de venda de serviço",
+    "metodo": "GET",
+    "caminho": "documentosVendaServico",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir documento de venda de serviço",
+    "metodo": "POST",
+    "caminho": "documentosVendaServico",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar empenhos",
+    "metodo": "GET",
+    "caminho": "empenhos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar empenhos por ordem",
+    "metodo": "GET",
+    "caminho": "empenhos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar empenho",
+    "metodo": "GET",
+    "caminho": "empenhos/detalharEmpenho/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar empresas",
+    "metodo": "GET",
+    "caminho": "empresas",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar empresa",
+    "metodo": "GET",
+    "caminho": "empresas/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir empresa",
+    "metodo": "POST",
+    "caminho": "empresas",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar empresa",
+    "metodo": "PUT",
+    "caminho": "empresas/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar etiquetas",
+    "metodo": "GET",
+    "caminho": "etiquetas/identOrdem",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar etiqueta",
+    "metodo": "GET",
+    "caminho": "etiquetas/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Obter Etiqueta",
+    "metodo": "GET",
+    "caminho": "etiquetas/:id/arquivo",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir uma etiqueta de identificação de ordem",
+    "metodo": "POST",
+    "caminho": "etiquetas/identOrdem",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar famílias de produto",
+    "metodo": "GET",
+    "caminho": "familiasProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar família de produto",
+    "metodo": "GET",
+    "caminho": "familiasProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar formas de pagamento",
+    "metodo": "GET",
+    "caminho": "formasPagamento",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar forma de pagamento",
+    "metodo": "GET",
+    "caminho": "formasPagamento/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar funcionários",
+    "metodo": "GET",
+    "caminho": "funcionarios",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar fornecedores de produto",
+    "metodo": "GET",
+    "caminho": "fornecedoresProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar produtos de fornecedor",
+    "metodo": "GET",
+    "caminho": "produtosFornecedor/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar grupos de produto",
+    "metodo": "GET",
+    "caminho": "gruposProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar grupo de produto",
+    "metodo": "GET",
+    "caminho": "gruposProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar grupos de usuários",
+    "metodo": "GET",
+    "caminho": "grupoUsuarios",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Consultar permissões dos aplicativos",
+    "metodo": "GET",
+    "caminho": "grupoUsuarios/:id/permissoesApp",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Criar inventário",
+    "metodo": "POST",
+    "caminho": "inventarios",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Processar inventário",
+    "metodo": "PUT",
+    "caminho": "processarInventarios/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar inventários",
+    "metodo": "GET",
+    "caminho": "inventarios/listar",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Excluir inventário",
+    "metodo": "DELETE",
+    "caminho": "inventarios/excluir/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar impressoras",
+    "metodo": "GET",
+    "caminho": "impressoras",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar itens de documento de saída",
+    "metodo": "GET",
+    "caminho": "itensDocumentoSaida",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar itens de documento de saída",
+    "metodo": "GET",
+    "caminho": "itensDocumentoSaida/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar listas de materiais",
+    "metodo": "GET",
+    "caminho": "listasMateriais",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar lista de materiais",
+    "metodo": "GET",
+    "caminho": "listasMateriais/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Criar lista de materiais",
+    "metodo": "POST",
+    "caminho": "listasMateriais",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar lista de materiais",
+    "metodo": "PUT",
+    "caminho": "listasMateriais/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar movimentações de estoque",
+    "metodo": "GET",
+    "caminho": "movimentacoesEstoque",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar notas de crédito de cliente",
+    "metodo": "GET",
+    "caminho": "notasCreditoCliente",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar nota de crédito de cliente",
+    "metodo": "GET",
+    "caminho": "notasCreditoCliente/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar notas de crédito de fornecedor",
+    "metodo": "GET",
+    "caminho": "notasCreditoFornecedor",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar nota de crédito de fornecedor",
+    "metodo": "GET",
+    "caminho": "notasCreditoFornecedor/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar notas fiscais destinadas",
+    "metodo": "GET",
+    "caminho": "nfesDestinadas",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar nota fiscal destinada",
+    "metodo": "GET",
+    "caminho": "nfesDestinadas/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar notas fiscais",
+    "metodo": "GET",
+    "caminho": "nfes",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar nota fiscal",
+    "metodo": "GET",
+    "caminho": "nfes/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Obter CCE",
+    "metodo": "GET",
+    "caminho": "nfes/cce/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Obter DANFE",
+    "metodo": "GET",
+    "caminho": "nfes/danfe/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar notas fiscais de serviço",
+    "metodo": "GET",
+    "caminho": "nfses",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar nota fiscal de serviço",
+    "metodo": "GET",
+    "caminho": "nfses/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Obter PDF de nota fiscal de serviço",
+    "metodo": "GET",
+    "caminho": "nfses/pdf/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar ordens",
+    "metodo": "GET",
+    "caminho": "ordens",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir ordem",
+    "metodo": "POST",
+    "caminho": "ordens",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar operações de ordem",
+    "metodo": "GET",
+    "caminho": "operacoesRoteiroOrdem",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar operações de roteiro de produto",
+    "metodo": "GET",
+    "caminho": "operacoesRoteiroProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar operação de roteiro de produto",
+    "metodo": "GET",
+    "caminho": "operacoesRoteiroProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir operação de roteiro de produto",
+    "metodo": "POST",
+    "caminho": "operacoesRoteiroProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar operação de roteiro de produto",
+    "metodo": "PUT",
+    "caminho": "operacoesRoteiroProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Deletar operação de roteiro de produto",
+    "metodo": "DELETE",
+    "caminho": "operacoesRoteiroProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar pagamentos",
+    "metodo": "GET",
+    "caminho": "pagamentos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar pagamento",
+    "metodo": "GET",
+    "caminho": "pagamentos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir pagamento",
+    "metodo": "POST",
+    "caminho": "pagamentos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar pedidos de venda",
+    "metodo": "GET",
+    "caminho": "pedidos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar pedido de venda",
+    "metodo": "GET",
+    "caminho": "pedidos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir pedido de venda",
+    "metodo": "POST",
+    "caminho": "pedidos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Deletar pedido de venda",
+    "metodo": "DELETE",
+    "caminho": "pedidos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar pedidos de compra",
+    "metodo": "GET",
+    "caminho": "pedidoscompra",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar pedido de compra",
+    "metodo": "GET",
+    "caminho": "pedidoscompra/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir pedido de compra",
+    "metodo": "POST",
+    "caminho": "pedidoscompra",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Deletar pedido de compra",
+    "metodo": "DELETE",
+    "caminho": "pedidoscompra/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar pessoas",
+    "metodo": "GET",
+    "caminho": "pessoas",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar pessoa",
+    "metodo": "GET",
+    "caminho": "pessoas/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir pessoa",
+    "metodo": "POST",
+    "caminho": "pessoas",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar pessoa",
+    "metodo": "PUT",
+    "caminho": "pessoas/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar processos",
+    "metodo": "GET",
+    "caminho": "processos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar processo",
+    "metodo": "GET",
+    "caminho": "processos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir processo",
+    "metodo": "POST",
+    "caminho": "processos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar processo",
+    "metodo": "PUT",
+    "caminho": "processos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar produtos",
+    "metodo": "GET",
+    "caminho": "produtos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar arquivos anexos a produtos",
+    "metodo": "GET",
+    "caminho": "produtos/:id/arquivosAnexos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar produto",
+    "metodo": "GET",
+    "caminho": "produtos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir produto",
+    "metodo": "POST",
+    "caminho": "produtos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir arquivo anexo a produto",
+    "metodo": "POST",
+    "caminho": "produtos/:id/arquivosAnexos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar arquivo anexo a produto",
+    "metodo": "PUT",
+    "caminho": "produtos/:id/arquivosAnexos/:nomeArquivo",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar produto",
+    "metodo": "PUT",
+    "caminho": "produtos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar propostas",
+    "metodo": "GET",
+    "caminho": "propostas",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar proposta",
+    "metodo": "GET",
+    "caminho": "propostas/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir proposta",
+    "metodo": "POST",
+    "caminho": "propostas",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Excluir proposta",
+    "metodo": "DELETE",
+    "caminho": "propostas/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar recebimentos",
+    "metodo": "GET",
+    "caminho": "recebimentos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar recebimento",
+    "metodo": "GET",
+    "caminho": "recebimentos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir recebimento",
+    "metodo": "POST",
+    "caminho": "recebimentos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar recursos",
+    "metodo": "GET",
+    "caminho": "recursos",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar recurso",
+    "metodo": "GET",
+    "caminho": "recursos/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir reporte da produção",
+    "metodo": "POST",
+    "caminho": "reporteProducao",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir reporte de subproduto",
+    "metodo": "POST",
+    "caminho": "reporteSubproduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar representantes",
+    "metodo": "GET",
+    "caminho": "representantes",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar representante",
+    "metodo": "GET",
+    "caminho": "representantes/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar representantes de uma pessoa",
+    "metodo": "GET",
+    "caminho": "representantes/pessoa/:idPessoa",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Consultar requisições pela produção",
+    "metodo": "GET",
+    "caminho": "requisicaoProducao/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar resultados de inspeção",
+    "metodo": "GET",
+    "caminho": "resultadosInspecao",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Consultar resultados de inspeção",
+    "metodo": "GET",
+    "caminho": "resultadosInspecao/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar rotas de entrega",
+    "metodo": "GET",
+    "caminho": "rotas",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar rota de entrega",
+    "metodo": "GET",
+    "caminho": "rotas/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar roteiros de produto",
+    "metodo": "GET",
+    "caminho": "roteirosProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar roteiro de produto",
+    "metodo": "GET",
+    "caminho": "roteirosProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir roteiro de produto",
+    "metodo": "POST",
+    "caminho": "roteirosProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar roteiro de produto",
+    "metodo": "PUT",
+    "caminho": "roteirosProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar estoque de produto",
+    "metodo": "GET",
+    "caminho": "saldosEstoqueProduto/:idProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar estoque de produto por lote/série",
+    "metodo": "GET",
+    "caminho": "saldosEstoqueProdutoLoteSerie/:idProduto/:idSetorEstoque",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar setores de estoque",
+    "metodo": "GET",
+    "caminho": "setorEstoque",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir setor de estoque",
+    "metodo": "POST",
+    "caminho": "setorEstoque",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar um setor de estoque",
+    "metodo": "PUT",
+    "caminho": "setorEstoque/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar solicitações",
+    "metodo": "GET",
+    "caminho": "solicitacoes",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar solicitação",
+    "metodo": "GET",
+    "caminho": "solicitacoes/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir solicitação",
+    "metodo": "POST",
+    "caminho": "solicitacoes",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar solicitações de compra",
+    "metodo": "GET",
+    "caminho": "solicitacoesCompras",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar tabelas de preço",
+    "metodo": "GET",
+    "caminho": "tabelasPreco",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar tabela de preço",
+    "metodo": "GET",
+    "caminho": "tabelasPreco/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar tabela de preço com itens",
+    "metodo": "GET",
+    "caminho": "tabelasPreco/:id/itens",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar telefones",
+    "metodo": "GET",
+    "caminho": "telefones",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar telefone",
+    "metodo": "GET",
+    "caminho": "telefones/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir telefone",
+    "metodo": "POST",
+    "caminho": "telefones",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar telefone",
+    "metodo": "PUT",
+    "caminho": "telefones/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar tipos de movimentação",
+    "metodo": "GET",
+    "caminho": "tiposMovimentacao",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar tipo de movimentação",
+    "metodo": "PUT",
+    "caminho": "tiposMovimentacao/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar tipos de produto",
+    "metodo": "GET",
+    "caminho": "tiposProduto",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar tipo de produto",
+    "metodo": "GET",
+    "caminho": "tiposProduto/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar unidades de medida",
+    "metodo": "GET",
+    "caminho": "unidadesMedida",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar unidade de medida",
+    "metodo": "GET",
+    "caminho": "unidadesMedida/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar usuários",
+    "metodo": "GET",
+    "caminho": "usuarios",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar usuário",
+    "metodo": "GET",
+    "caminho": "usuarios/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Inserir usuário",
+    "metodo": "POST",
+    "caminho": "usuarios",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Editar usuário",
+    "metodo": "PUT",
+    "caminho": "usuarios/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar vendedores",
+    "metodo": "GET",
+    "caminho": "vendedores",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar vendedor",
+    "metodo": "GET",
+    "caminho": "vendedores/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Listar vendedores de uma pessoa",
+    "metodo": "GET",
+    "caminho": "vendedores/pessoa/:idPessoa",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  },
+  {
+    "nome": "Detalhar conta a pagar Copy",
+    "metodo": "GET",
+    "caminho": "contasBancarias/:id",
+    "descricao": "Operacao da API publica do Nomus; confira os campos na documentacao oficial.",
+    "parametros_exemplo": [],
+    "corpo_exemplo": ""
+  }
+]
